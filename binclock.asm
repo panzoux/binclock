@@ -1,0 +1,1 @@
+; binclock for msx2~
